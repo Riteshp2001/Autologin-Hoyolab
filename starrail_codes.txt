@@ -147,3 +147,11 @@ GOODGAME1024
 <b><code>HSRGRANDOPEN1</code></b><sup class="reference" id="cite_ref-2023-04-26_20-0"><a href="#cite_note-2023-04-26-20">[19]</a></sup></td
 <b><code>HSRGRANDOPEN2</code></b><sup class="reference" id="cite_ref-2023-04-26_20-1"><a href="#cite_note-2023-04-26-20">[19]</a></sup></td
 <b><code>HSRGRANDOPEN3</code></b><sup class="reference" id="cite_ref-2023-04-26_20-2"><a href="#cite_note-2023-04-26-20">[19]</a></sup></td
+<b><code>US9SND24U8FB</code></b></td
+<b><code>ST9T6DKLVRGX</code></b></td
+<b><code>4BQSPDKLVQFF</code></b></td
+<b><code>YTRB6VKMVRZB</code></b></td
+<b><code>KB9A7VJ5VQW7</code></b></td
+<b><code>ELFNBN5W2J</code></b></td
+<b><code>SOULKGQM2X</code></b></td
+<b><code>JT8BPUJMURUP</code></b></td
